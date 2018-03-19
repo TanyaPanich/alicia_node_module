@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/TanyaPanich/alicia_node_module/issues"
   },
-  "homepage": "https://github.com/TanyaPanich/alicia_node_module#readme"
+  "homepage": "https://github.com/TanyaPanich/alicia_node_module#readme",
+  "dependencies": {
+    "chalk": "^2.3.2"
+  }
 }
